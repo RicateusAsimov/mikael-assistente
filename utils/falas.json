@@ -1,0 +1,39 @@
+{
+    "sair" : [
+        "sair",
+        "saia",
+        "pare",
+        "para",
+        "parar",
+        "desligar",
+        "desligue",
+        "desliga"
+    ],
+    
+    "sofia" : [
+        "sofia"
+    ],
+    
+    "pesquisar" : [
+        "pesquisar por",
+        "pesquisar",
+        "pesquisa por",
+        "pesquisa",
+        "pesquise por",
+        "pesquise",
+        "procure por",
+        "procure",
+        "procurar por",
+        "procurar",
+        "procura por",
+        "procura",
+        "busque por",
+        "busque"
+
+    ],
+    "horas" : [
+        "horas",
+        "horario",
+        "hora"
+    ]
+}
